@@ -24,13 +24,7 @@ Sou estudante de **Sistemas e Mídias Digitais**, com foco principal na área de
 
 # 📊 GitHub Stats:
 
-<div align = "center">
-
 ![](https://github-readme-stats.shion.dev/api?username=joelsoaressilva&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://streak-stats.demolab.com/?user=joelsoaressilva&theme=vue-dark&hide_border=false)
-</div>
-
-<div align = "center">
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=joelsoaressilva&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
