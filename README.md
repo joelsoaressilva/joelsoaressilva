@@ -1,8 +1,9 @@
 
-$$\Huge \textbf{\color{#57cc99}Olá! 🧑🏾‍💻​ Eu sou Joel Soares:}$$
+<h1 align="center">$$\textbf{\color{#57cc99} Olá! 🧑🏾‍💻​ Eu sou Joel Soares:}$$</h1>
 
 <div align="center">
-Sou estudante de Sistemas e Mídias Digitais, com foco principal na área de Dados. Atualmente, aprofundo meus conhecimentos em Python, análise, manipulação e visualização de dados, além do desenvolvimento de aplicações voltadas para essa área. Também estudo desenvolvimento web, interfaces digitais e programação criativa, utilizando tecnologias como JavaScript, React, Pandas, Streamlit e Plotly.
+  
+Sou estudante de $\color{#168aad}{Sistemas\ e\ Mídias\ Digitais}$ , com foco principal na área de Dados. Atualmente, aprofundo meus conhecimentos em Python, análise, manipulação e visualização de dados, além do desenvolvimento de aplicações voltadas para essa área. Também estudo desenvolvimento web, interfaces digitais e programação criativa, utilizando tecnologias como JavaScript, React, Pandas, Streamlit e Plotly.
 
 
 ## 💻 Tecnologias:
